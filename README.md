@@ -1,5 +1,5 @@
 # SIGMOD24-MQCE
-Our code, data and additional materials are avaliable here.
+Our code, data and additional materials are avaliable here. `We notice that the PDFReader embedded in the website Anonymous.GitHub might not properly display a PDF file in some cases. It would be better to download the SIGMOD_MQCE_report.pdf and open it locally.`
 ## Index  
 ```shell
 .
