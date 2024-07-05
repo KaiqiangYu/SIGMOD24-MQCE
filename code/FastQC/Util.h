@@ -87,7 +87,7 @@ int Util::ReadGraph(string dataset_path,int **&Graph, int *&degree){
         // if(index==172862){
         //     cout<<temp_count<<endl;
         // }
-        if(a=='\r'){
+        if(a=='\n'||a=='\r'){
             if(index>=graph_size)
                 break;
             degree[index]=temp_count;
