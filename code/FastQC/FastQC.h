@@ -244,6 +244,7 @@ void FastQC::KBranch_Rec(int k, int depth){
         }
 
         // Recovery
+	fast=false;
         if(fast){
             for(int i:ReD) if(!D.contains(i)) D.add(i);
             for(int i:nonNeg){
